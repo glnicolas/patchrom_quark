@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <permission name="com.motorola.permission.READ_CID_BLOCK" >
+        <group gid="mot_dbvc" />
+    </permission>
+</permissions>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <feature name="com.motorola.aov.ap_v2" />
+    <feature name="com.motorola.aov.dsp_v2" />
+
+    <permission name="com.motorola.audiomonitor.permission.LOCAL" >
+        <group gid="audio" />
+        <group gid="diag" />
+    </permission>
+</permissions>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="N11Number">
+        <item>*86</item>
+        <item>8883221122</item>
+        <item>18883221122</item>
+        <item>*411</item>
+        <item>\#411</item>
+        <item>*611</item>
+        <item>\#611</item>
+        <item>611</item>
+        <item>0000000868</item>
+        <item>411</item>
+    </string-array>
+    <string-array name="N11Name">
+        <item>Call Care</item>
+        <item>Virgin Mobile Care</item>
+        <item>Virgin Mobile Care</item>
+        <item>Directory Assistance</item>
+        <item>Directory Assistance</item>
+        <item>Care Services</item>
+        <item>Care Services</item>
+        <item>Care Services</item>
+        <item>Virgin Mobile</item>
+        <item>Directory Assistance</item>
+    </string-array>
+</resources>

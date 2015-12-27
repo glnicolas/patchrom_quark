@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="ftr32781_single_digit_dial_enabled">true</bool>
+</resources>

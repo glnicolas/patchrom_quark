@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_api_setAKey_is_enabled">true</bool>
+    <bool name="config_start_sprint_extension_service">true</bool>
+    <bool name="config_dynamic_mms_user_agent">true</bool>
+    <bool name="config_dynamic_mms_user_agent_profile_url">true</bool>
+</resources>

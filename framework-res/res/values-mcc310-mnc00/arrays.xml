@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="N11Number">
+        <item>*611</item>
+        <item>611</item>
+    </string-array>
+    <string-array name="N11Name">
+        <item>Customer Care</item>
+        <item>Customer Care</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<permissions>
+    <feature name="com.motorola.software.motodisplay" />
+    <permission name="com.motorola.motodisplay.permission.PARTIAL_DISPLAY" >
+        <group gid="compass" />
+        <group gid="graphics" />
+    </permission>
+</permissions>
+

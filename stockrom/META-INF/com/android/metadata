@@ -1,0 +1,3 @@
+post-build=motorola/quark_retla/quark_umts:4.4.4/KXG21.50-9/6:user/release-keys
+post-timestamp=1413246446
+pre-device=quark_umts

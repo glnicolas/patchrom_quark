@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="N11Number">
+        <item>8882667848</item>
+        <item>18882667848</item>
+        <item>*411</item>
+        <item>\#411</item>
+        <item>*611</item>
+        <item>\#611</item>
+        <item>*225</item>
+        <item>\#225</item>
+        <item>*233</item>
+        <item>\#233</item>
+        <item>611</item>
+        <item>411</item>
+    </string-array>
+    <string-array name="N11Name">
+        <item>Boost Care</item>
+        <item>Boost Care</item>
+        <item>Directory Assistance</item>
+        <item>Directory Assistance</item>
+        <item>Care Services</item>
+        <item>Care Services</item>
+        <item>Call Balance</item>
+        <item>Call Balance</item>
+        <item>Call Reboost</item>
+        <item>Call Reboost</item>
+        <item>Care Services</item>
+        <item>Directory Assistance</item>
+    </string-array>
+</resources>

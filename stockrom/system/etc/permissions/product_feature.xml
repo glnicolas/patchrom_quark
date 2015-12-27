@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <feature name="com.motorola.software.device.quark_umts" />
+    <feature name="com.motorola.software.product.quark_retla" />
+    <feature name="com.motorola.software.fingerprint.motorola/quark_retla/quark_umts:4.4.4/KXG21.50-9/6:user/test-keys" />
+</permissions>
